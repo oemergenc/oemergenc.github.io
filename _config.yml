@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Serguei Cambour
+twitter_username: belgoros
+name: Serguei Cambour
 
 # Build settings
 markdown: kramdown
@@ -9,102 +9,134 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/javix
  - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
+   url: http://stackoverflow.com/users/1119043/javix
  - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://dzone.com/users/224218/jcrusoe.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://be.linkedin.com/in/sergueicambour
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
+ - Ruby
+ - Ruby on Rails
+ - JRuby
+ - Cucumber
+ - RSpec
+ - Capybara
+ - Java J2EE
  - Spring MVC
- - Spring Boot
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Tech Architecture
-
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+ - Hibernate
+ - Tapestry
+ - JSF
+ - Maven
+ - jQuery
 
 #Work experience is required
 roles:
- - title: Senior Engineer
-   start: 2016
+ - title: Senior Software Engineer
+   start: January 2014
    end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   employer: GFI, Lille, France
+   description: I'm involved in different projects and primarily working on client sites in Communications, Financial, Retail and Transport Services.
+ - title: Ruby on Rails Engineer
+   start: Oct.2013
+   end: Jan.2014
+   employer: Silicon Salad, Lille, France
+   description: WEB agency specialized in e-commerce solutions.</br>I'm involved in evoluating and support of existing Rails applications.
+ - title: Software Engineer
+   start: June 2010
+   end: June 2013
+   employer: Atos Integration, France
+   description: A range technical roles, primarily working on client sites in Financial, Retail, Transport Services.
+ - title: Software Engineer
+   start: March 2007
+   end: March 2010
+   employer: Aubay.Promotic, Belgium
+   description: A range technical roles, primarily working on client sites in Retail, Transport Services, Public and State Institutions.
 
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   date: 1991
+   subject: Computer Science and Information Technology
+   school: University of Krasnodar, Russia
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+courses:
+ - title: shaping-up-with-angular-js
+   link: https://www.codeschool.com/courses/shaping-up-with-angular-js
+   date: September 2014
+ - title: Front End Formations
+   link: https://www.codeschool.com/courses/front-end-formations
+   date: June, 2014
+ - title: JavaScript Best Practices
+   link: https://www.codeschool.com/courses/javascript-best-practices
+   date: June, 2014
+ - title: Surviving APIs with Rails
+   link: https://www.codeschool.com/courses/surviving-apis-with-rails
+   date: June, 2014
+ - title: Rails 4 Patterns
+   link: https://www.codeschool.com/courses/rails-4-patterns
+   date: June, 2014
+ - title: Testing with RSpec
+   link: https://www.codeschool.com/courses/testing-with-rspec
+   date: June, 2014
+ - title: Rails Testing for Zombies
+   link: https://www.codeschool.com/courses/rails-testing-for-zombies
+   date: June, 2014
+ - title: Rails for Zombies 2
+   link: https://www.codeschool.com/courses/rails-for-zombies-2
+   date: May, 2014
+ - title: Rails for Zombies Redux
+   link: https://www.codeschool.com/courses/rails-for-zombies-redux
+   date: May, 2014
+ - title: Ruby Bits Part 2
+   link: https://www.codeschool.com/courses/ruby-bits-part-2
+   date: May, 2014
+ - title: Rails 4:Zombie Outlaws
+   link: https://www.codeschool.com/courses/rails-4-zombie-outlaws
+   date: May, 2014
+ - title: Git Real
+   link: https://www.codeschool.com/courses/git-real
+   date: May, 2014
+ - title: Git Real 2
+   link: https://www.codeschool.com/courses/git-real-2
+   date: May, 2014
+ - title: Mastering GitHub
+   link: https://www.codeschool.com/courses/mastering-github
+   date: May, 2014
+ - title: Try Git
+   link: https://www.codeschool.com/courses/try-git
+   date: May, 2014
+
+apps:
+ - name: UMed
+   url: http://umed.be
+   description: Quiz for students in medecine (Rails)
+ - name: jlc-invest
+   url: https://jlc-invest.herokuapp.com
+   description: clients portfolio management (Rails)
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+ - Javix/jlc-invest
+ - Javix/blog-jsf
+ - Javix/spot-time
+ - Javix/sinatra_songs
+ - Javix/springy-blog
+ - Javix/laby
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
-
-#Mobile apps section is optional
-apps:
- - name: Chuck the Quiz
-   platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
+   profileurl: http://stackoverflow.com/users/1119043/javix
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring, JPA (Hibernate) in addition to others.
+   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although very frequently I'm involved to contribute on outdated frameworks using Struts 1, JSP ans jQuery). I have also worked with some client side technology, having used jQuery, Bootstrap, Foundation, LESS, SASS and have also experimented with other technologies such as Angular, Ember, Backbone, CoffeeScript.<br/><br/>
+   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with Git, GitLab, CVS, SVN, Maven, Sonar, Jira and Jenkins. I have experience with lots of testing tools and technologies.<br/><br/>
+   I have also gained experience and knowledge from several side projects and research that I have undertaken in my free time, including Amazon S3, PayPal.<br/><br/>
+   I created, and am now primary contributor to a Rails quiz application for students in medecine: and <a target='_blank' href="http://umed.be">UMed</a>, which provides integration with PayPal API and Amazon S3. <br/><br/>
