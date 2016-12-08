@@ -115,7 +115,7 @@ courses:
 apps:
  - name: UMed
    url: http://umed.be
-   description: Quiz for students in medecine (Rails)
+   description: Quiz for students in medicine (Rails)
  - name: jlc-invest
    url: https://jlc-invest.herokuapp.com
    description: clients portfolio management (Rails)
@@ -139,4 +139,4 @@ additionalinfo: |
    <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although very frequently I'm involved to contribute on outdated frameworks using Struts 1, JSP ans jQuery). I have also worked with some client side technology, having used jQuery, Bootstrap, Foundation, LESS, SASS and have also experimented with other technologies such as Angular, Ember, Backbone, CoffeeScript.<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with Git, GitLab, CVS, SVN, Maven, Sonar, Jira and Jenkins. I have experience with lots of testing tools and technologies.<br/><br/>
    I have also gained experience and knowledge from several side projects and research that I have undertaken in my free time, including Amazon S3, PayPal.<br/><br/>
-   I created, and am now primary contributor to a Rails quiz application for students in medecine: and <a target='_blank' href="http://umed.be">UMed</a>, which provides integration with PayPal API and Amazon S3. <br/><br/>
+   I created, and am now primary contributor to a Rails quiz application for students in medicine: and <a target='_blank' href="http://umed.be">UMed</a>, which provides integration with PayPal API and Amazon S3. <br/><br/>
