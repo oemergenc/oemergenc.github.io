@@ -41,6 +41,11 @@ roles:
    end: Ongoing
    employer: GFI, Lille, France
    description: I'm involved in different projects and primarily working on client sites in Communications, Financial, Retail and Transport Services.
+ - title: Ruby on Rais Enginner
+   start: Oct.2013
+   end: Feb. 2014
+   employer: Teleborder, USA
+   description: Migration to Rails 4, fix compatibilities issues
  - title: Ruby on Rails Engineer
    start: Oct.2013
    end: Jan.2014
