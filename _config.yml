@@ -64,9 +64,9 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
+ - level: Master of Engineering
    date: 1991
-   subject: Computer Science and Information Technology
+   subject: Computer Sciences and Information Technology
    school: University of Krasnodar, Russia
 
 #This section is optional (as is the image link below)
