@@ -10,7 +10,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: GitHub
-   url: https://github.com/javix
+   url: https://github.com/belgoros
  - title: StackOverflow
    url: http://stackoverflow.com/users/1119043/javix
  - title: DZone
@@ -39,7 +39,7 @@ roles:
  - title: Senior Software Engineer
    start: January 2014
    end: Ongoing
-   employer: GFI, Lille, France
+   employer: GFI Informatique, Lille, France
    description: I'm involved in different projects and primarily working on client sites in Communications, Financial, Retail and Transport Services.
  - title: Ruby on Rais Enginner
    start: Oct.2013
