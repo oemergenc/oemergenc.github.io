@@ -127,12 +127,12 @@ apps:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - Javix/jlc-invest
- - Javix/blog-jsf
- - Javix/spot-time
- - Javix/sinatra_songs
- - Javix/springy-blog
- - Javix/laby
+ - belgoros/jlc-invest
+ - belgoros/blog-jsf
+ - belgoros/spot-time
+ - belgoros/sinatra_songs
+ - belgoros/springy-blog
+ - belgoros/laby
 
 #Stackoverflow flair is optional
 stackoverflow:
