@@ -1,148 +1,60 @@
-# Site settings
-title: Serguei Cambour
-twitter_username: belgoros
-name: Serguei Cambour
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
+
+# Social links
+twitter_username: facespics
+github_username:  sproogen
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: chillwildlife
+linkedin_username: jameswgrant
+# pinterest_username: jekyll
+youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Rock climbing
+   - Gaming
+   - Knitting
+   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: true
 
 # Build settings
-markdown: kramdown
+remote_theme: sproogen/resume-theme
 
-#User specific content
-#Links that will appear in the navbar
-primarylinks:
- - title: GitHub
-   url: https://github.com/belgoros
- - title: StackOverflow
-   url: http://stackoverflow.com/users/1119043/javix
- - title: DZone
-   url: https://dzone.com/users/224218/jcrusoe.html
- - title: LinkedIn
-   url: https://be.linkedin.com/in/sergueicambour
+sass:
+  sass_dir: _sass
+  style: compressed
 
-#Any buzzword skills you want to include
-skills:
- - Ruby
- - Ruby on Rails
- - JRuby
- - Cucumber
- - RSpec
- - Capybara
- - Java J2EE
- - Spring MVC
- - Hibernate
- - Tapestry
- - JSF
- - Maven
- - jQuery
-
-#Work experience is required
-roles:
- - title: Senior Software Engineer
-   start: January 2014
-   end: Ongoing
-   employer: GFI Informatique, Lille, France
-   description: I'm involved in different projects and primarily working on client sites in Communications, Financial, Retail and Transport Services.
- - title: Ruby on Rais Enginner
-   start: Oct.2013
-   end: Feb. 2014
-   employer: Teleborder, USA
-   description: Migration to Rails 4, fix compatibilities issues
- - title: Ruby on Rails Engineer
-   start: Oct.2013
-   end: Jan.2014
-   employer: Silicon Salad, Lille, France
-   description: WEB agency specialized in e-commerce solutions.</br>I'm involved in evoluating and support of existing Rails applications.
- - title: Software Engineer
-   start: June 2010
-   end: June 2013
-   employer: Atos Integration, France
-   description: A range technical roles, primarily working on client sites in Financial, Retail, Transport Services.
- - title: Software Engineer
-   start: March 2007
-   end: March 2010
-   employer: Aubay.Promotic, Belgium
-   description: A range technical roles, primarily working on client sites in Retail, Transport Services, Public and State Institutions.
-
-#Education is required
-education:
- - level: Master of Engineering
-   date: 1991
-   subject: Computer Sciences and Information Technology
-   school: University of Krasnodar, Russia
-
-#This section is optional (as is the image link below)
-courses:
- - title: shaping-up-with-angular-js
-   link: https://www.codeschool.com/courses/shaping-up-with-angular-js
-   date: September 2014
- - title: Front End Formations
-   link: https://www.codeschool.com/courses/front-end-formations
-   date: June, 2014
- - title: JavaScript Best Practices
-   link: https://www.codeschool.com/courses/javascript-best-practices
-   date: June, 2014
- - title: Surviving APIs with Rails
-   link: https://www.codeschool.com/courses/surviving-apis-with-rails
-   date: June, 2014
- - title: Rails 4 Patterns
-   link: https://www.codeschool.com/courses/rails-4-patterns
-   date: June, 2014
- - title: Testing with RSpec
-   link: https://www.codeschool.com/courses/testing-with-rspec
-   date: June, 2014
- - title: Rails Testing for Zombies
-   link: https://www.codeschool.com/courses/rails-testing-for-zombies
-   date: June, 2014
- - title: Rails for Zombies 2
-   link: https://www.codeschool.com/courses/rails-for-zombies-2
-   date: May, 2014
- - title: Rails for Zombies Redux
-   link: https://www.codeschool.com/courses/rails-for-zombies-redux
-   date: May, 2014
- - title: Ruby Bits Part 2
-   link: https://www.codeschool.com/courses/ruby-bits-part-2
-   date: May, 2014
- - title: Rails 4:Zombie Outlaws
-   link: https://www.codeschool.com/courses/rails-4-zombie-outlaws
-   date: May, 2014
- - title: Git Real
-   link: https://www.codeschool.com/courses/git-real
-   date: May, 2014
- - title: Git Real 2
-   link: https://www.codeschool.com/courses/git-real-2
-   date: May, 2014
- - title: Mastering GitHub
-   link: https://www.codeschool.com/courses/mastering-github
-   date: May, 2014
- - title: Try Git
-   link: https://www.codeschool.com/courses/try-git
-   date: May, 2014
-
-apps:
- - name: UMed
-   url: https://umed.herokuapp.com/
-   description: Quiz for students in medicine (Rails)
- - name: jlc-invest
-   url: https://jlc-invest.herokuapp.com
-   description: clients portfolio management (Rails)
-
-#List of interesting Github repo/projects to include - optional
-github:
- - belgoros/umed
- - belgoros/jlc-invest
- - belgoros/blog-jsf
- - belgoros/spot-time
- - belgoros/sinatra_songs
- - belgoros/springy-blog
- - belgoros/laby
-
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/1119043/javix
-
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring, JPA (Hibernate) in addition to others.
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although very frequently I'm involved to contribute on outdated frameworks using Struts 1, JSP ans jQuery). I have also worked with some client side technology, having used jQuery, Bootstrap, Foundation, LESS, SASS and have also experimented with other technologies such as Angular, Ember, Backbone, CoffeeScript.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with Git, GitLab, CVS, SVN, Maven, Sonar, Jira and Jenkins. I have experience with lots of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge from several side projects and research that I have undertaken in my free time, including Amazon S3, PayPal.<br/><br/>
-   I created, and am now primary contributor to a Rails quiz application for students in medicine: <a target='_blank' href="https://umed.herokuapp.com/">UMed</a>, which provides integration with PayPal API and Amazon S3. <br/><br/>
+plugins:
+ - jekyll-seo-tag
