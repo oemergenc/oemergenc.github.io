@@ -53,7 +53,7 @@
   description: | # this will include new lines to allow paragraphs
     In cooperation with the research institute »Fraunhofer IAIS« I wrote my master thesis for the evaluation of bimanual interaction techniques for seismic interpretation. These novel man-machine interaction techniques consist of unimodal pen interactions, unimodal finger interaction, as well as multimodal pen and finger combination techniques. The integration into the open-source seismic interpretation tool OpendTect guarantees the operationalizability regarding the industrial applicability of the developed system. Furthermore, the system was evaluated in a multi-day user study.
 
-    **Technology / frameworks:**: C ++, Qt Toolkit, Coin3D, SoQt, Wacom Cintiq 24 HD Touch
+    **Technology / frameworks:** C++, Qt Toolkit, Coin3D, SoQt, Wacom Cintiq 24 HD Touch
 
     [Video demo](https://www.youtube.com/watch?v=r2nPoMPZOhQ)
 
@@ -76,12 +76,12 @@
   description: | # this will include new lines to allow paragraphs
     In the context of the master thesis »Everything will be famous« by Aliye Genç, I acted as a supervising developer and implemented a Java application for generative design. The application is developed on the basis of the Multitouch for Java framework (MT4J) and is primarily intended to be used with multi-touch terminals. The aim of the application is to create a visual programming environment that offers users intuitive design options. To allow a simple interaction, the architecture of the application allows to combine actions with each other. The user learns the functions and possibilities of »Everything will be famous« by exploration. The developed system was presented at the »Werkschau« exhibition of the theses in Düsseldorf.
 
-    **Technology / frameworks:**: Multitouch for Java (MT4J), Processing, Java Bindings for OpenGL (JOGL)
+    **Technology / frameworks:** Multitouch for Java (MT4J), Processing, Java Bindings for OpenGL (JOGL)
 
     [everything will be famous](https://www.everythingwillbefamous.de)
 
     [Images](galleries/ewbf)
-    
+
 - company: Imperia AG, Cologne
   link: www.imperia.net
   job_title: Softwaretester
@@ -99,6 +99,6 @@
   description: | # this will include new lines to allow paragraphs
     The company »Takuma Software Design« from Emden accompanied me during my bachelor thesis and together the application »theForce« was developed. »theForce« uses the programming language ActionScript 3.0 and allows to view and publish any content in the form of a digital book. The central aspect of the application is the innovative control via gesture recognition via a webcam. The underlying algorithms were also implemented by me during the Bachelor thesis. Furthermore, the contents of the application can be mapped to a marker and transformed and aligned in a 3-dimensional space. The superposition of the real object through a virtual achieves an extension of reality - augmented reality.
 
-    **Technology / frameworks:**: Adobe Flex, Adobe Flash, Actionscript 3.0
+    **Technology / frameworks:** Adobe Flex, Adobe Flash, Actionscript 3.0
 
     [Images](galleries/bachelor)
