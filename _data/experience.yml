@@ -36,7 +36,7 @@
   quote: >
     Development of a habour protection system at the Fraunhofer-Gesellschaft, the largest organization for applied research in Europe.
   description: | # this will include new lines to allow paragraphs
-    In cooperation with the technical unit 71 (WTD71) and the research institute »Fraunhofer IAIS«, the iLEXX habour protection system is implemented, maintained and further developed. As the chief developer, my responsibilities include system architecture and system design, as well as the implementation of new concepts and procedures for capturing and creating maritime situational pictures. In addition, network programming, connection of various hardware sensor systems, PostgreSQL database administration and interactive visualization are the main components of this employment.
+    In cooperation with the technical unit 71 (WTD71) of the german Bundeswehr and the research institute »Fraunhofer IAIS«, the iLEXX habour protection system is implemented, maintained and further developed. As the chief developer, my responsibilities include system architecture and system design, as well as the implementation of new concepts and procedures for capturing and creating maritime situational pictures. In addition, network programming, connection of various hardware sensor systems, PostgreSQL database administration and interactive visualization are the main components of this employment.
 
     **Technology / frameworks:** JavaFX 8, Eclipse RCP 3/4, Apache Geronimo, ActiveMQ, PostgreSQL, Ant, Maven, Gradle, Virtualbox, Docker
 
@@ -72,7 +72,7 @@
   quote:
     Master's thesis of Aliye Genç, title of thesis »Everything will be famous«
   description: | # this will include new lines to allow paragraphs
-    In the context of the master thesis »Everything will be famous« by Aliye Genç, I acted as a supervising developer and implemented a Java application for generative design. The application is developed on the basis of the Multitouch for Java framework (MT4J) and is primarily intended for use with multi-touch terminals. The aim of the application is to create a visual programming environment that offers users intuitive design options. To allow a simple interaction, the architecture of the application allows to combine actions with each other. The user learns the functions and possibilities of »Everything will be famous« through exploration. The developed system was presented at the »Werkschau« exhibition of the theses in Düsseldorf.
+    In the context of the master thesis »Everything will be famous« by Aliye Genç, I acted as a supervising developer and implemented a Java application for generative design. The application is developed on the basis of the Multitouch for Java framework (MT4J) and is primarily intended to be used with multi-touch terminals. The aim of the application is to create a visual programming environment that offers users intuitive design options. To allow a simple interaction, the architecture of the application allows to combine actions with each other. The user learns the functions and possibilities of »Everything will be famous« by exploration. The developed system was presented at the »Werkschau« exhibition of the theses in Düsseldorf.
 
     **Technology / frameworks:**: Multitouch for Java (MT4J), Processing, Java Bindings for OpenGL (JOGL)
 
