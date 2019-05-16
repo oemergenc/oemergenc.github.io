@@ -5,7 +5,7 @@
   quote: >
     Building omnichannel big data applications for the german online food market.
   description: | # this will include new lines to allow paragraphs
-    Rewe digital GmbH is a subsidiary of the Rewe Group with a startup atmosphere and state of the art technology stack. As a big data engineer my main task is the linking of different data sinks of the corporate landscape to enable a user-centered online shopping experience. In an purely agile develoment process my team and I working closly with the marketing department of the Rewe Group to increase the customer experience of the [Rewe online shop](https://www.rewe.de).
+    Rewe digital GmbH is a subsidiary of the Rewe Group with a startup atmosphere and state of the art technology stack. As a big data engineer my main task is the linking of different data sinks of the corporate landscape to enable a user-centered online shopping experience. These applications are implemented using a microservice architecture allowing to deploy services several times a day on a Kubernetes cluster running on the Google Cloud Platform. In an purely agile development process my team and I working closly with the marketing department of the Rewe Group to increase the customer experience of the [Rewe online shop](https://www.rewe.de).
 
     **Technology / frameworks:** Google Cloud Platform, Kubernetes, Docker, Spring Boot, Jupyter Notebook, Big Query, Jenkins, Grafana, Prometheus
 - company: Rewe Systems GmbH, Cologne
