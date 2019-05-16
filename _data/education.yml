@@ -1,9 +1,28 @@
-- name: [Hochschule Emden/Leer](https://www.hs-emden-leer.de/en/study/degree-courses/all-degree-courses/medientechnik/)
+- name: Hochschule Düsseldorf
+  dates: 2010 - 2013
+  qualification: MSc Medieninformatik
+  link: https://medien.hs-duesseldorf.de/studium/studiengaenge/mmi/Seiten/uebersicht.aspx
+  quote: >
+    This accredited program in the field of media informatics provides a strong foundation in computer science supplemented by the basics of media design. Advanced applications rely on this Media informatics - for example in computer graphics, interactive systems, e-business and IT security.
+  description: | # this will include new lines to allow paragraphs
+
+    [Master Medieninformatik](https://medien.hs-duesseldorf.de/studium/studiengaenge/mmi/Seiten/uebersicht.aspx)
+
+- name: Hochschule Emden/Leer
   dates: 2007 - 2010
   qualification: BSc Media Technology
+  link: https://www.hs-emden-leer.de/en/study/degree-courses/all-degree-courses/medientechnik/
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    The demand for internet-based media formats such as streaming TV, media libraries etc. is increasing. Topics such as virtual reality and augmented reality are rapidly developing, creating new professions and offering career opportunities. The aim of the degree program Media Technology is therefore the training of engineers for electronic and internet-based media.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    [Bachelor Medientechnik](https://www.hs-emden-leer.de/en/study/degree-courses/all-degree-courses/medientechnik/)
+
+- name: Freiherr-vom-Stein-Gymnasium Oberhausen
+  dates: 1996 - 2006
+  qualification: Abitur
+  quote: >
+    secondary school
+  description: | # this will include new lines to allow paragraphs
+
+    [Freiherr-vom-Stein-Gymnasium](https://www.fvs-gymnasium.de/)

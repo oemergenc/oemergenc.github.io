@@ -1,8 +1,90 @@
-- company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+- company: Rewe Digital GmbH, Cologne
+  link: https://www.rewe-digital.com/
+  job_title: Big Data Engineer
+  dates: August 2018 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Building omni channel big data applications for the german online food market.
   description: | # this will include new lines to allow paragraphs
     Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+    **Technology / frameworks:** Google Cloud Platform, Kubernetes, Docker, Spring Boot, Jupyter Notebook, Big Query, Jenkins, Grafana, Prometheus
+- company: Rewe Systems GmbH, Cologne
+  link: https://www.rewe-systems.com
+  job_title: Software Developer
+  dates: February 2017 - August 2018
+  quote: >
+    Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    In various projects for Rewe Systems GmbH I have implemented applications using the Apache Hadoop stack to visualize user data from data sources with enormous amounts of data. With strong focus on analysing product infomation data, master data and monitoring data i implemented restful apis realizing the communication of distrubuted systems. Furthermore, different APIs of third party providers (Google, Amazon) were connected via the implementation of micro services and integrated into corresponding applications.
+
+    **Technology / frameworks:** Apache Hadoop, Apache Spark, Apache Hbase, Cloudera, MapR, Apache Drill, Spring Boot, Eclipse RCP 3/4, Android, Gradle, Grafana, OpenTSDB, Vagrant, Virtualbox, Docker
+
+- company: IBM Client Innovation Center, Cologne
+  link: www.ibm.com/de/clientinnovationcenter
+  job_title: Consultant
+  dates: April 2016 - February 2017
+  quote: >
+    Consultant employment for the client Rewe Group
+  description: | # this will include new lines to allow paragraphs
+    As a software consultant i had the opportunity to work for the client Rewe Group. After a periot of 6 month Rewe Group made me an offer to become a fulltime employe of their company. I took that change and changed the employment.
+- company: Fraunhofer IAIS, Sankt Augustin
+  link: www.iais.fraunhofer.de
+  job_title: Software Developer
+  dates: December 2013 - April 2016
+  quote: >
+    Development of a habour protection system at the Fraunhofer-Gesellschaft, the largest organization for applied research in Europe.
+  description: | # this will include new lines to allow paragraphs
+    In cooperation with the technical unit 71 (WTD71) and the research institute »Fraunhofer IAIS«, the iLEXX habour protection system is implemented, maintained and further developed. As the chief developer, my responsibilities include system architecture and system design, as well as the implementation of new concepts and procedures for capturing and creating maritime situational pictures. In addition, network programming, connection of various hardware sensor systems, PostgreSQL database administration and interactive visualization are the main components of this employment.
+
+    **Technology / frameworks:** JavaFX 8, Eclipse RCP 3/4, Apache Geronimo, ActiveMQ, PostgreSQL, Ant, Maven, Gradle, Virtualbox, Docker
+
+- company: Fraunhofer IAIS, Sankt Augustin
+  link: www.iais.fraunhofer.de
+  job_title: Masterthesis
+  dates: September 2012 - September 2013
+  quote: >
+    Master's thesis, title of thesis »Novel Pen & Touch based Interaction Techniques for Seismic Interpretation«
+  description: | # this will include new lines to allow paragraphs
+    In cooperation with the research institute »Fraunhofer IAIS« I wrote my master thesis for the evaluation of bimanual interaction techniques for seismic interpretation. These novel man-machine interaction techniques consist of unimodal pen interactions, unimodal finger interaction, as well as multimodal pen and finger combination techniques. The integration into the open-source seismic interpretation tool OpendTect guarantees the operationalizability regarding the industrial applicability of the developed system. Furthermore, the system was evaluated in a multi-day user study.
+
+    **Technology / frameworks:**: C ++, Qt Toolkit, Coin3D, SoQt, Wacom Cintiq 24 HD Touch
+
+    [Video demo](https://www.youtube.com/watch?v=r2nPoMPZOhQ)
+- company: iDev GmbH, Cologne
+  link: www.idev.de
+  job_title: Softwaretester
+  dates: November 2011 - February 2012
+  quote:
+    German company for sport bet systems.
+  description: | # this will include new lines to allow paragraphs
+    Testing software for a point of interest system of a sports bet system.
+- company: Freelancer
+  link: www.everythingwillbefamous.de
+  job_title: Softwaretester
+  dates: November 2011 - February 2012
+  quote:
+    Master's thesis of Aliye Genç, title of thesis »Everything will be famous«
+  description: | # this will include new lines to allow paragraphs
+    In the context of the master thesis »Everything will be famous« by Aliye Genç, I acted as a supervising developer and implemented a Java application for generative design. The application is developed on the basis of the Multitouch for Java framework (MT4J) and is primarily intended for use with multi-touch terminals. The aim of the application is to create a visual programming environment that offers users intuitive design options. To allow a simple interaction, the architecture of the application allows to combine actions with each other. The user learns the functions and possibilities of »Everything will be famous« through exploration. The developed system was presented at the »Werkschau« exhibition of the theses in Düsseldorf.
+
+    **Technology / frameworks:**: Multitouch for Java (MT4J), Processing, Java Bindings for OpenGL (JOGL)
+
+    [everything will be famous](www.everythingwillbefamous.de)
+- company: Imperia AG, Cologne
+  link: www.imperia.net
+  job_title: Softwaretester
+  dates: May 2011 - October 2012
+  quote:
+    German company for sport bet systems.
+  description: | # this will include new lines to allow paragraphs
+    My main task was to identify faulty program behavior in order to ensure a corresponding level of software quality.
+- company: Takuma Software Design, Emden
+  link: www.takuma.de
+  job_title: Bachelorthesis
+  dates: May 2010 - August 2010
+  quote:
+    Freelancer for web and flash development
+  description: | # this will include new lines to allow paragraphs
+    The company »Takuma Software Design« from Emden accompanied me during my bachelor thesis and together the application »theForce« was developed. »theForce« uses the programming language ActionScript 3.0 and allows to view and publish any content in the form of a digital book. The central aspect of the application is the innovative control via gesture recognition via a webcam. The underlying algorithms were also implemented by me during the Bachelor thesis. Furthermore, the contents of the application can be mapped to a marker and transformed and aligned in a 3-dimensional space. The superposition of the real object through a virtual achieves an extension of reality - augmented reality.
+
+    **Technology / frameworks:**: Adobe Flex, Adobe Flash, Actionscript 3.0
