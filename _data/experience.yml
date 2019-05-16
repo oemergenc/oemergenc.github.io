@@ -14,7 +14,7 @@
   job_title: Software Developer
   dates: February 2017 - August 2018
   quote: >
-    Business development for one of the german market leaders in retail
+    Business development for one of the german market leaders in retail.
   description: | # this will include new lines to allow paragraphs
     In various projects for Rewe Systems GmbH I have implemented applications using the Apache Hadoop stack to visualize user data from data sources with enormous amounts of data. With strong focus on analysing product infomation data, master data and monitoring data i implemented restful apis realizing the communication of distrubuted systems. Furthermore, different APIs of third party providers (Google, Amazon) were connected via the implementation of microservices and integrated into corresponding applications.
 
@@ -27,7 +27,7 @@
   job_title: Consultant
   dates: April 2016 - February 2017
   quote: >
-    Consultant employment for the client Rewe Group
+    Consultant employment for the client Rewe Group.
   description: | # this will include new lines to allow paragraphs
     As a software consultant i had the opportunity to work for the client Rewe Group. After a periot of 6 month Rewe Group made me an offer to become a fulltime employe of their company. I took that change and changed the employment.
 
@@ -49,7 +49,7 @@
   job_title: Masterthesis
   dates: September 2012 - September 2013
   quote: >
-    Master's thesis, title of thesis »Novel Pen & Touch based Interaction Techniques for Seismic Interpretation«
+    Master's thesis, title of thesis »Novel Pen & Touch based Interaction Techniques for Seismic Interpretation«.
   description: | # this will include new lines to allow paragraphs
     In cooperation with the research institute »Fraunhofer IAIS« I wrote my master thesis for the evaluation of bimanual interaction techniques for seismic interpretation. These novel man-machine interaction techniques consist of unimodal pen interactions, unimodal finger interaction, as well as multimodal pen and finger combination techniques. The integration into the open-source seismic interpretation tool OpendTect guarantees the operationalizability regarding the industrial applicability of the developed system. Furthermore, the system was evaluated in a multi-day user study.
 
@@ -72,7 +72,7 @@
   job_title: Softwaretester
   dates: November 2011 - February 2012
   quote:
-    Master's thesis of Aliye Genç, title of thesis »Everything will be famous«
+    Master's thesis of Aliye Genç, title of thesis »Everything will be famous«.
   description: | # this will include new lines to allow paragraphs
     In the context of the master thesis »Everything will be famous« by Aliye Genç, I acted as a supervising developer and implemented a Java application for generative design. The application is developed on the basis of the Multitouch for Java framework (MT4J) and is primarily intended to be used with multi-touch terminals. The aim of the application is to create a visual programming environment that offers users intuitive design options. To allow a simple interaction, the architecture of the application allows to combine actions with each other. The user learns the functions and possibilities of »Everything will be famous« by exploration. The developed system was presented at the »Werkschau« exhibition of the theses in Düsseldorf.
 
