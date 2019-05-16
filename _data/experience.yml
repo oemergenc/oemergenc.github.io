@@ -15,7 +15,7 @@
   quote: >
     Business development for one of the german market leaders in retail
   description: | # this will include new lines to allow paragraphs
-    In various projects for Rewe Systems GmbH I have implemented applications using the Apache Hadoop stack to visualize user data from data sources with enormous amounts of data. With strong focus on analysing product infomation data, master data and monitoring data i implemented restful apis realizing the communication of distrubuted systems. Furthermore, different APIs of third party providers (Google, Amazon) were connected via the implementation of micro services and integrated into corresponding applications.
+    In various projects for Rewe Systems GmbH I have implemented applications using the Apache Hadoop stack to visualize user data from data sources with enormous amounts of data. With strong focus on analysing product infomation data, master data and monitoring data i implemented restful apis realizing the communication of distrubuted systems. Furthermore, different APIs of third party providers (Google, Amazon) were connected via the implementation of microservices and integrated into corresponding applications.
 
     **Technology / frameworks:** Apache Hadoop, Apache Spark, Apache Hbase, Cloudera, MapR, Apache Drill, Spring Boot, Eclipse RCP 3/4, Android, Gradle, Grafana, OpenTSDB, Vagrant, Virtualbox, Docker
 
@@ -76,7 +76,7 @@
 
     **Technology / frameworks:**: Multitouch for Java (MT4J), Processing, Java Bindings for OpenGL (JOGL)
 
-    [everything will be famous](www.everythingwillbefamous.de)
+    [everything will be famous](https://www.everythingwillbefamous.de)
 
     [Images](galleries/ewbf)
 - company: Imperia AG, Cologne
