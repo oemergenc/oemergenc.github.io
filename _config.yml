@@ -14,7 +14,7 @@ facebook_username: de.oege
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: img/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Ömer and I'm a software developer. This is my personal homepage. You will find here some information about my worklife and some projects i have recently worked on. If you are interested in more details, please feel free to contact me.
 
@@ -47,16 +47,3 @@ sass:
 
 plugins:
   - jekyll-seo-tag
-
-# Build settings
-markdown: kramdown
-
-defaults:
-  -
-    scope:
-      path: "photography"
-    values:
-      permalink: /:path/:basename:output_ext
-
-exclude: [LICENSE-CODE.md, LICENSE-IMAGES, README.md, bower.json]
-

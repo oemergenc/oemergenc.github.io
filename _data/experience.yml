@@ -19,6 +19,8 @@
 
     **Technology / frameworks:** Apache Hadoop, Apache Spark, Apache Hbase, Cloudera, MapR, Apache Drill, Spring Boot, Eclipse RCP 3/4, Android, Gradle, Grafana, OpenTSDB, Vagrant, Virtualbox, Docker
 
+    [Images](galleries/rewe_systems)
+
 - company: IBM Client Innovation Center, Cologne
   link: www.ibm.com/de/clientinnovationcenter
   job_title: Consultant
@@ -38,6 +40,8 @@
 
     **Technology / frameworks:** JavaFX 8, Eclipse RCP 3/4, Apache Geronimo, ActiveMQ, PostgreSQL, Ant, Maven, Gradle, Virtualbox, Docker
 
+    [Images](galleries/fhg)
+
 - company: Fraunhofer IAIS, Sankt Augustin
   link: www.iais.fraunhofer.de
   job_title: Masterthesis
@@ -50,6 +54,9 @@
     **Technology / frameworks:**: C ++, Qt Toolkit, Coin3D, SoQt, Wacom Cintiq 24 HD Touch
 
     [Video demo](https://www.youtube.com/watch?v=r2nPoMPZOhQ)
+
+    [Images](galleries/master)
+
 - company: iDev GmbH, Cologne
   link: www.idev.de
   job_title: Softwaretester
@@ -70,6 +77,8 @@
     **Technology / frameworks:**: Multitouch for Java (MT4J), Processing, Java Bindings for OpenGL (JOGL)
 
     [everything will be famous](www.everythingwillbefamous.de)
+
+    [Images](galleries/ewbf)
 - company: Imperia AG, Cologne
   link: www.imperia.net
   job_title: Softwaretester
@@ -88,3 +97,5 @@
     The company »Takuma Software Design« from Emden accompanied me during my bachelor thesis and together the application »theForce« was developed. »theForce« uses the programming language ActionScript 3.0 and allows to view and publish any content in the form of a digital book. The central aspect of the application is the innovative control via gesture recognition via a webcam. The underlying algorithms were also implemented by me during the Bachelor thesis. Furthermore, the contents of the application can be mapped to a marker and transformed and aligned in a 3-dimensional space. The superposition of the real object through a virtual achieves an extension of reality - augmented reality.
 
     **Technology / frameworks:**: Adobe Flex, Adobe Flash, Actionscript 3.0
+
+    [Images](galleries/bachelor)
