@@ -7,17 +7,16 @@ layout: default
 {% for gallery in site.data.galleries %}
   {% if gallery.id == page.galleryid %}
     <div style="text-align: center">
-    <h1>{{ gallery.description }}</h1>
-    <ol>
-    {% for image in gallery.images %}
-      <li>
-        {{ image.text }}<br>
-        <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
-          <img src="{{ gallery.imagefolder }}/{{ image.thumb }}">
-        </a>
-      </li>
-    {% endfor %}
-    </ol>
+      <h3>{{ gallery.description }}</h3>
+      <div class="row">
+        {% for image in gallery.images %}
+          <div class="column">
+            <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+              <img src="{{ gallery.imagefolder }}/{{ image.thumb }}">
+            </a>
+          </div>
+        {% endfor %}
+      </div>
     </div>
   {% endif %}
 {% endfor %}
