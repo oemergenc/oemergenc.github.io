@@ -16,7 +16,7 @@
   quote: >
     Business development for one of the german market leaders in retail.
   description: | # this will include new lines to allow paragraphs
-    In various projects for Rewe Systems GmbH I have implemented applications using the Apache Hadoop stack to visualize user data from data sources with enormous amounts of data. With strong focus on analysing product infomation data, master data and monitoring data i implemented restful apis realizing the communication of distrubuted systems. Furthermore, different APIs of third party providers (Google, Amazon) were connected via the implementation of microservices and integrated into corresponding applications.
+    In various projects for Rewe Systems GmbH I have implemented applications using the Apache Hadoop stack to visualize user data from data sources with enormous amounts of data. With strong focus on analysing product infomation data, master data and monitoring data I implemented restful apis realizing the communication of distrubuted systems. Furthermore, different APIs of third party providers (Google, Amazon) were connected via the implementation of microservices and integrated into corresponding applications.
 
     **Technology / frameworks:** Apache Hadoop, Apache Spark, Apache Hbase, Cloudera, MapR, Apache Drill, Spring Boot, Eclipse RCP 3/4, Android, Gradle, Grafana, OpenTSDB, Vagrant, Virtualbox, Docker
 
@@ -29,7 +29,7 @@
   quote: >
     Consultant employment for the client Rewe Group.
   description: | # this will include new lines to allow paragraphs
-    As a software consultant i had the opportunity to work for the client Rewe Group. After a periot of 6 month Rewe Group made me an offer to become a fulltime employe of their company. I took that change and changed the employment.
+    As a software consultant I had the opportunity to work for the client Rewe Group. After a periot of 6 month Rewe Group made me an offer to become a fulltime employe of their company. I took that change and changed the employment.
 
 - company: Fraunhofer IAIS, Sankt Augustin
   link: www.iais.fraunhofer.de
@@ -67,9 +67,10 @@
     German company for sport bet systems.
   description: | # this will include new lines to allow paragraphs
     Testing software for a point of interest system of a sports bet system.
+
 - company: Freelancer
   link: www.everythingwillbefamous.de
-  job_title: Softwaretester
+  job_title: Software Developer
   dates: November 2011 - February 2012
   quote:
     Master's thesis of Aliye Genç, title of thesis »Everything will be famous«.
@@ -87,7 +88,7 @@
   job_title: Softwaretester
   dates: May 2011 - October 2012
   quote:
-    German company for sport bet systems.
+    German company for content management systems.
   description: | # this will include new lines to allow paragraphs
     My main task was to identify faulty program behavior in order to ensure a corresponding level of software quality.
 - company: Takuma Software Design, Emden
@@ -95,7 +96,7 @@
   job_title: Bachelorthesis
   dates: May 2010 - August 2010
   quote:
-    Freelancer for web and flash development
+    Bachelor's thesis, title of thesis »Augmented Reality - Einführung uns Realisierung eines Buch Viewer Prototypen auf Flexbasis«.
   description: | # this will include new lines to allow paragraphs
     The company »Takuma Software Design« from Emden accompanied me during my bachelor thesis and together the application »theForce« was developed. »theForce« uses the programming language ActionScript 3.0 and allows to view and publish any content in the form of a digital book. The central aspect of the application is the innovative control via gesture recognition via a webcam. The underlying algorithms were also implemented by me during the Bachelor thesis. Furthermore, the contents of the application can be mapped to a marker and transformed and aligned in a 3-dimensional space. The superposition of the real object through a virtual achieves an extension of reality - augmented reality.
 
