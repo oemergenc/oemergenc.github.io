@@ -16,7 +16,7 @@ facebook_username: de.oege
 # about_title: About Me
 about_profile_image: img/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Ömer and I'm a software developer. This is my personal homepage. You will find here some information about my worklife and some projects i have recently worked on. If you are interested in more details, please feel free to contact me.
+  Hi, my name is Ömer and I'm a software developer. This is my personal homepage. You will find here some information about my worklife and some projects I have recently worked on. If you are interested in more details, please feel free to contact me.
 
 # Projects Section
 # projects_title: Projects
