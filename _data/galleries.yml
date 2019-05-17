@@ -17,10 +17,12 @@
   imagefolder: /img/rewe_systems
   images:
     - name:   img1.png
-      thumb:  img2_tn.jpg
+      thumb:  img1_tn.jpg
     - name:   img2.png
-      thumb:  img3_tn.jpg
+      thumb:  img2_tn.jpg
     - name:   img3.png
+      thumb:  img3_tn.jpg
+    - name:   img4.png
       thumb:  img4_tn.jpg
     - name:   img4.png
       thumb:  img5_tn.jpg
@@ -47,6 +49,8 @@
     - name:   img1.png
       thumb:  img1_tn.jpg
     - name:   img2.png
+      thumb:  img2_tn.jpg
+    - name:   img3.png
       thumb:  img3_tn.jpg
     - name:   img4.png
       thumb:  img4_tn.jpg
