@@ -8,15 +8,21 @@ layout: default
   {% if gallery.id == page.galleryid %}
     <div style="text-align: center">
       <h3>{{ gallery.description }}</h3>
-      <div class="row">
         {% for image in gallery.images %}
-          <div class="column">
-            <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
-              <img src="{{ gallery.imagefolder }}/{{ image.thumb }}">
+        {% assign next_i = forloop.index0 | plus: 1 %}
+        {% assign prev_i = forloop.index0 | minus: 1 %}
+        <div class="cssbox">
+            <a id="{{ image.name }}" href="#{{ image.name }}">
+                <img class="cssbox_thumb" src="{{ gallery.imagefolder }}/{{ image.thumb }}" title="{{ image.text }}">
+                <span class="cssbox_full">
+        <img src="{{ gallery.imagefolder }}/{{ image.name }}">
+        </span>
             </a>
-          </div>
+            <a class="cssbox_close" href="#void"></a>
+            <a class="cssbox_prev" href="#{{ gallery.images[prev_i].name }}">&lt;</a>
+            <a class="cssbox_next" href="#{{ gallery.images[next_i].name }}">&gt;</a>
+        </div>
         {% endfor %}
-      </div>
     </div>
   {% endif %}
 {% endfor %}

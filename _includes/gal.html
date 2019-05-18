@@ -1,5 +1,12 @@
 {% for image in page.images %}
 {% if include.image == null or include.image == image.name %}
-<a href="{{ page.imgfolder }}/{{ image.name }}" data-lightbox="1" title="{{ image.text }}"><img src="{{ page.imgfolder }}/{{ image.thumb }}" title="{{ image.text }}"></a>
+<div class="cssbox">
+    <a id="{{ image.name }}" href="#{{ image.name }}">
+        <img class="cssbox_thumb" src="{{ page.imgfolder }}/{{ image.thumb }}" title="{{ image.text }}">
+        <span class="cssbox_full">
+      <img src="{{ page.imgfolder }}/{{ image.name }}">
+    </span>
+    </a>
+</div>
 {% endif %}
 {% endfor %}

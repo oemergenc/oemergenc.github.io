@@ -74,3 +74,25 @@
       thumb:  img4_tn.jpg
     - name:   img5.png
       thumb:  img5_tn.jpg
+- id: touchplanvs
+  description: TouchplanVs
+  imagefolder: /img/touchplanvs
+  images:
+    - name:   img1.png
+      thumb:  img1_tn.jpg
+    - name:   img3.png
+      thumb:  img3_tn.jpg
+    - name:   img4.png
+      thumb:  img4_tn.jpg
+    - name:   img5.png
+      thumb:  img5_tn.jpg
+- id: j2kapprox
+  description: JPEG 2000 Approximation
+  imagefolder: /img/j2kapprox
+  images:
+    - name:   img1.png
+      thumb:  img1_tn.jpg
+    - name:   img2.png
+      thumb:  img2_tn.jpg
+    - name:   img3.png
+      thumb:  img3_tn.jpg
