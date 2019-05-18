@@ -9,19 +9,19 @@ layout: default
     <div style="text-align: center">
       <h3>{{ gallery.description }}</h3>
         {% for image in gallery.images %}
-        {% assign next_i = forloop.index0 | plus: 1 %}
-        {% assign prev_i = forloop.index0 | minus: 1 %}
-        <div class="cssbox">
-            <a id="{{ image.name }}" href="#{{ image.name }}">
-                <img class="cssbox_thumb" src="{{ gallery.imagefolder }}/{{ image.thumb }}" title="{{ image.text }}">
-                <span class="cssbox_full">
-        <img src="{{ gallery.imagefolder }}/{{ image.name }}">
-        </span>
-            </a>
-            <a class="cssbox_close" href="#void"></a>
-            <a class="cssbox_prev" href="#{{ gallery.images[prev_i].name }}">&lt;</a>
-            <a class="cssbox_next" href="#{{ gallery.images[next_i].name }}">&gt;</a>
-        </div>
+            {% assign next_i = forloop.index0 | plus: 1 %}
+            {% assign prev_i = forloop.index0 | minus: 1 %}
+            <div class="cssbox">
+                <a id="{{ image.name }}" href="#{{ image.name }}">
+                    <img class="cssbox_thumb" src="{{ gallery.imagefolder }}/{{ image.thumb }}" title="{{ image.text }}">
+                    <span class="cssbox_full">
+                        <img src="{{ gallery.imagefolder }}/{{ image.name }}">
+                    </span>
+                </a>
+                <a class="cssbox_close" href="#void"></a>
+                <a class="cssbox_prev" href="#{{ gallery.images[prev_i].name }}">&lt;</a>
+                <a class="cssbox_next" href="#{{ gallery.images[next_i].name }}">&gt;</a>
+            </div>
         {% endfor %}
     </div>
   {% endif %}
