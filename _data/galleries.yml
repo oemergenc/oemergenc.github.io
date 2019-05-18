@@ -30,9 +30,9 @@
       thumb:  img5_tn.jpg
     - name:   img6.png
       thumb:  img6_tn.jpg
-- id: bachelor
-  description: Bachelor thesis
-  imagefolder: /img/bachelor
+- id: master
+  description: Master thesis
+  imagefolder: /img/master
   images:
     - name:   img1.png
       thumb:  img1_tn.jpg
@@ -42,6 +42,8 @@
       thumb:  img3_tn.jpg
     - name:   img4.png
       thumb:  img4_tn.jpg
+    - name:   img5.png
+      thumb:  img5_tn.jpg
 - id: ewbf
   description: Everything will be famous
   imagefolder: /img/ewbf
@@ -60,9 +62,9 @@
       thumb:  img6_tn.jpg
     - name:   img7.png
       thumb:  img7_tn.jpg
-- id: master
-  description: Master thesis
-  imagefolder: /img/master
+- id: bachelor
+  description: Bachelor thesis
+  imagefolder: /img/bachelor
   images:
     - name:   img1.png
       thumb:  img1_tn.jpg
@@ -72,8 +74,6 @@
       thumb:  img3_tn.jpg
     - name:   img4.png
       thumb:  img4_tn.jpg
-    - name:   img5.png
-      thumb:  img5_tn.jpg
 - id: touchplanvs
   description: TouchplanVs
   imagefolder: /img/touchplanvs
