@@ -2,95 +2,95 @@
   description: Project Fraunhofer Gesellschaft
   imagefolder: /img/fhg
   images:
-    - name:   img1.png
+    - name:   img1.jpg
       thumb:  img1_tn.jpg
-    - name:   img2.png
+    - name:   img2.jpg
       thumb:  img2_tn.jpg
-    - name:   img3.png
+    - name:   img3.jpg
       thumb:  img3_tn.jpg
-    - name:   img4.png
+    - name:   img4.jpg
       thumb:  img4_tn.jpg
-    - name:   img5.png
+    - name:   img5.jpg
       thumb:  img5_tn.jpg
 - id: rewe_systems
   description: Projects Rewe Systems
   imagefolder: /img/rewe_systems
   images:
-    - name:   img1.png
+    - name:   img1.jpg
       thumb:  img1_tn.jpg
-    - name:   img2.png
+    - name:   img2.jpg
       thumb:  img2_tn.jpg
-    - name:   img3.png
+    - name:   img3.jpg
       thumb:  img3_tn.jpg
-    - name:   img4.png
+    - name:   img4.jpg
       thumb:  img4_tn.jpg
-    - name:   img5.png
+    - name:   img5.jpg
       thumb:  img5_tn.jpg
-    - name:   img6.png
+    - name:   img6.jpg
       thumb:  img6_tn.jpg
 - id: master
   description: Master thesis
   imagefolder: /img/master
   images:
-    - name:   img1.png
+    - name:   img1.jpg
       thumb:  img1_tn.jpg
-    - name:   img2.png
+    - name:   img2.jpg
       thumb:  img2_tn.jpg
-    - name:   img3.png
+    - name:   img3.jpg
       thumb:  img3_tn.jpg
-    - name:   img4.png
+    - name:   img4.jpg
       thumb:  img4_tn.jpg
-    - name:   img5.png
+    - name:   img5.jpg
       thumb:  img5_tn.jpg
 - id: ewbf
   description: Everything will be famous
   imagefolder: /img/ewbf
   images:
-    - name:   img1.png
+    - name:   img1.jpg
       thumb:  img1_tn.jpg
-    - name:   img2.png
+    - name:   img2.jpg
       thumb:  img2_tn.jpg
-    - name:   img3.png
+    - name:   img3.jpg
       thumb:  img3_tn.jpg
-    - name:   img4.png
+    - name:   img4.jpg
       thumb:  img4_tn.jpg
-    - name:   img5.png
+    - name:   img5.jpg
       thumb:  img5_tn.jpg
-    - name:   img6.png
+    - name:   img6.jpg
       thumb:  img6_tn.jpg
-    - name:   img7.png
+    - name:   img7.jpg
       thumb:  img7_tn.jpg
 - id: bachelor
   description: Bachelor thesis
   imagefolder: /img/bachelor
   images:
-    - name:   img1.png
+    - name:   img1.jpg
       thumb:  img1_tn.jpg
-    - name:   img2.png
+    - name:   img2.jpg
       thumb:  img2_tn.jpg
-    - name:   img3.png
+    - name:   img3.jpg
       thumb:  img3_tn.jpg
-    - name:   img4.png
+    - name:   img4.jpg
       thumb:  img4_tn.jpg
 - id: touchplanvs
   description: TouchplanVs
   imagefolder: /img/touchplanvs
   images:
-    - name:   img1.png
+    - name:   img1.jpg
       thumb:  img1_tn.jpg
-    - name:   img3.png
+    - name:   img3.jpg
       thumb:  img3_tn.jpg
-    - name:   img4.png
+    - name:   img4.jpg
       thumb:  img4_tn.jpg
-    - name:   img5.png
+    - name:   img5.jpg
       thumb:  img5_tn.jpg
 - id: j2kapprox
   description: JPEG 2000 Approximation
   imagefolder: /img/j2kapprox
   images:
-    - name:   img1.png
+    - name:   img1.jpg
       thumb:  img1_tn.jpg
-    - name:   img2.png
+    - name:   img2.jpg
       thumb:  img2_tn.jpg
-    - name:   img3.png
+    - name:   img3.jpg
       thumb:  img3_tn.jpg
